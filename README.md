@@ -14,7 +14,7 @@ When I'm not crafting web experiences, you'll find me immersed in various intere
 
 ## Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/eg%C4%ABls-ka%C4%BCv%C4%81ns-665275265/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/egils-kalvans/)
 [![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/23207452?style=plastic)](https://stackoverflow.com/users/23207452/looppng)
 
 📧 Email: egils.kalvans2@gmail.com
