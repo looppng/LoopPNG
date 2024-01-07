@@ -1,6 +1,6 @@
 # Hi there 👋, I`m Egīls
 
-A Front-end developer from Latvia
+A Full-Stack developer from Latvia
 
 ## About Me
 
