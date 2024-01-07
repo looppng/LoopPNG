@@ -36,7 +36,7 @@ Here's a snapshot of the technologies in my toolbox:
 
 - **JavaScript Libraries & Frameworks:** React | React Redux | Angular
 
-- **Tools & Practices:** ESLint 🧹
+- **Tools & Practices:** ESLint 🧹 | Git 🛠️ | Test-Driven Development (TDD) 🧪 | HTTP 🌐 | Clean Code 🧼 | NodeJS basics ⚙️
 
 - **Next.js:** 🚀 Utilizing Next.js for building scalable and performant web applications.
 
