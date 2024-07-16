@@ -2,16 +2,6 @@
 
 A Full-Stack developer from Latvia
 
-## About Me
-
-When I'm not crafting web experiences, you'll find me immersed in various interests:
-
-- 📚 **Reading:** I'm an avid reader, exploring worlds and ideas through books.
-- 🎵 **Music Production:** I enjoy producing music, turning inspiration into beats.
-- 💪 **Gym:** Keeping a balance between coding sessions, I hit the gym for some workouts.
-- 🎮 **Gaming:** Whether it's leveling up in a virtual world or solving puzzles, gaming is my digital escape.
-
-
 ## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/egils-kalvans/)
