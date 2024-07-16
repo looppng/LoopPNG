@@ -12,7 +12,7 @@ A Full-Stack developer from Latvia
 
 ### What I'm up to:
 
-- 🔭 Currently, I'm working on honing my skills in AngularJS.
+- 🔭 Currently, I'm working on honing my skills in NextJS.
 - 🌱 Actively learning and exploring new technologies to stay ahead in the dynamic tech landscape.
 
 ### Tech Stack:
